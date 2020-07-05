@@ -1,0 +1,4 @@
+include ':app1'
+include ':player-lib'
+include ':app'
+rootProject.name = "exo"
